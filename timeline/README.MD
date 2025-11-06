@@ -13,5 +13,5 @@ Se tivesse mais tempo, exploraria melhorias em testes de responsividade, refinam
 npm install
 npm start
 
-![alt text](image-2.png)
+![alt text](image-1.png)
 ![alt text](image-2.png)
